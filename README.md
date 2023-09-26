@@ -28,3 +28,4 @@ The fake client expected these features :
 
 For the conception of this project I used : [Whimsical.com](https://whimsical.com/)
 
+![wireframe-desktop](https://github.com/Cristina-fruitsPunchSamurai/wireframe/assets/108081381/48f8ad70-628f-41b5-a227-a398b8585c59)
